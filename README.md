@@ -45,6 +45,8 @@
 ## 5. 핵심 소스코드
 - 전체 소스코드 위치: Assets/ML-Agents/Examples/Pyramids/Scripts
 - 소스코드 이름 설명: CODES.md
+- 참고한 코드 및 환경: https://github.com/Unity-Technologies/ml-agents  (Pyramids 예제)
+- 강화학습을 위한 yaml 파일 및 최종 결과 파일은 위 github를 이용해 가져온 config 파일과 result 파일에 저장되어 있었으나, 기존 github와의 연결이 끊기지 않아 현재 repository로 불러올 경우 로컬 파일에 영향을 주는 점으로 인하여 아래 Notion에 올려두었습니다.
 ### 5-1. 보상값 체제 구현 코드
 - 강화학습 에이전트의 두뇌 역할을 하며, 환경으로부터 받은 보상에 따라 행동을 학습하는 메서드입니다.
 ```csharp
