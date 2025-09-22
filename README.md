@@ -34,10 +34,10 @@
 
 ## 3. 시스템 구성도
 - 프로젝트 개요도
-<img width="478" height="467" alt="Image" src="https://github.com/user-attachments/assets/846b577e-281f-4c93-aba8-bda4caacb29a" />
+<img width="478" height="467" alt="Image" src="https://github.com/user-attachments/assets/a1a64491-bcd1-4b28-95bd-355a8ca349b4" />
 
 - H/W와 S/W 흐름도
-<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/5ffada4b-3237-4c28-ada7-825cc1630424" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/326dfd8a-df3d-4c7e-ad34-3784cbe6b0b4" />
 
 ## 4. 작품 소개 영상
 [![2025년 한이음 드림업 공모전 시연 동영상 - 강화학습 기반 다수 모바일 로봇 군집제어 및 최적화 플랫폼](https://i.ytimg.com/vi/_nOzjau9hys/hq720.jpg)](https://www.youtube.com/watch?v=_nOzjau9hys)
