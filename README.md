@@ -34,7 +34,7 @@
 
 ## 3. 시스템 구성도
 - 프로젝트 개요도
-<img width="478" height="467" alt="Image" src="https://github.com/user-attachments/assets/a1a64491-bcd1-4b28-95bd-355a8ca349b4" />
+<img width="478" height="467" alt="Image" src="https://github.com/user-attachments/assets/c70b93cd-a290-41f5-84a3-d0e261d7b1e6" />
 
 - H/W와 S/W 흐름도
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/326dfd8a-df3d-4c7e-ad34-3784cbe6b0b4" />
