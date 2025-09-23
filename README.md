@@ -27,7 +27,7 @@
 -	하드웨어: TurtleBot3 Burger, RC카
 -	센서: LiDAR, IMU, 적외선 센서
 ## 2. 팀원 소개
-|여기에 사진|여기에 사진|![Image](https://github.com/user-attachments/assets/1edb89d8-1df1-433f-989f-1c63f80c04fb)|![Image](https://github.com/user-attachments/assets/010c770e-c110-476a-8273-bb5458f5cec2)|<img width="400" height="533" alt="Image" src="https://github.com/user-attachments/assets/100099f8-b54f-42ce-97c5-164429b9d55c" />|
+|여기에 사진|여기에 사진|![Image](https://github.com/user-attachments/assets/1edb89d8-1df1-433f-989f-1c63f80c04fb)|![Image](https://github.com/user-attachments/assets/010c770e-c110-476a-8273-bb5458f5cec2)|<img width="560" height="720" alt="Image" src="https://github.com/user-attachments/assets/100099f8-b54f-42ce-97c5-164429b9d55c" />|
 |:---:|:---:|:---:|:---:|:---:|
 |**이승은(팀장)**|**박경현**|**원예림**|**이소현**|**조한별(멘토)**|
 |ML-Agents 환경 구성 <br/>& 성능 검증|physical AI 시뮬레이션 구현 (Turtlebot) <br/>& Digital Twin 환경 구축|physical AI 시뮬레이션 구현 (Turtlebot) <br/>&장애물 이동체 관리(Arduino)|ML-Agents 환경 구성 및 동작 구현 <br/>& 강화학습|피드백 및 방향성 제시|
