@@ -46,7 +46,7 @@
 - 전체 소스코드 위치: Assets/ML-Agents/Examples/Pyramids/Scripts
 - 소스코드 이름 설명: Assets/ML-Agents/Examples/Pyramids/Scripts/CODES.md
 - 참고한 코드 및 환경: https://github.com/Unity-Technologies/ml-agents  (Pyramids 예제)
-- 강화학습에 사용된 yaml 설정 파일과 최종 결과 파일은 원래 위의 mlagents GitHub 저장소의 config 및 result 디렉토리에 위치해 있었습니다. 그러나 원본 저장소와의 연결 문제로 로컬 파일이 덮어씌워지는 문제가 발생하여, 안전한 공유를 위해 해당 파일들을 Google Drive에 별도로 업로드하였습니다.
+- 전체 프로젝트 파일은 원래 위의 mlagents GitHub 저장소의 config 및 result 디렉토리에 위치해 있었습니다. 그러나 원본 저장소와의 연결 문제로 로컬 파일이 덮어씌워지는 문제가 발생하여, 안전한 공유를 위해 해당 파일 및 log기록 등을 Google Drive에 별도로 업로드하였습니다.
   https://drive.google.com/drive/folders/1eCyqv2zUBwr6xWFGUrjGgjxg7GVEx_kx?usp=drive_link
   
 ### 5-1. 보상값 체제 구현 코드
